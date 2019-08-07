@@ -11,7 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string student = "aparna";
-            string  name="prashanth"
+            string name = "prashanth";
+            string name2 = "rahul";
         }
     }
 }
